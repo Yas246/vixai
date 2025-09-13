@@ -35,3 +35,9 @@ Thumbs.db
 # Temporaire
 *.tmp
 *.temp
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+.circleci/
