@@ -712,10 +712,9 @@ tests/
 
 ## 📞 Support
 
-- 📧 **Email** : support@vixai.com
-- 🐛 **Issues** : [GitHub Issues](https://github.com/your-username/vixai/issues)
-- 💬 **Discussions** : [GitHub Discussions](https://github.com/your-username/vixai/discussions)
-- 📖 **Documentation** : [Site web](https://vixai.com)
+- 📧 **Email** : wabiyassar@gmail.com
+- 🐛 **Issues** : [GitHub Issues](https://github.com/Yas246/vixai/issues)
+- 💬 **Discussions** : [GitHub Discussions](https://github.com/Yas246/vixai/discussions)
 
 ---
 
