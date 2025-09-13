@@ -1,0 +1,45 @@
+{
+  "name": "vixai",
+  "version": "0.1.0",
+  "description": "An AI-powered SQL assistant for Node.js applications",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint src/**/*.ts",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "sql",
+    "ai",
+    "assistant",
+    "database",
+    "nodejs",
+    "gemini"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.2.0",
+    "dotenv": "^16.4.0",
+    "knex": "^3.1.0",
+    "mysql2": "^3.9.0",
+    "pg": "^8.11.0",
+    "sqlite3": "^5.1.0",
+    "zod": "^3.22.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "@types/node": "^20.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.0.0",
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "typescript": "^5.3.3"
+  },
+  "peerDependencies": {
+    "next": ">=13.0.0"
+  }
+}

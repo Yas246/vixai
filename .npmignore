@@ -1,0 +1,37 @@
+# Code source et développement
+src/
+__tests__/
+test-*.js
+
+# Configuration de développement
+jest.config.js
+tsconfig.json
+.eslintrc.js
+.gitignore
+
+# Environnement et secrets
+.env*
+*.log
+
+# Couverture et métriques
+.nyc_output/
+coverage/
+
+# Éditeurs et IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build et distribution
+*.tgz
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporaire
+*.tmp
+*.temp
